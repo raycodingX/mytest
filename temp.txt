@@ -2,11 +2,8 @@
 aaaaaa
 我也修改了内容
 简单
-<<<<<<< HEAD
 这个内容
 bbbb
 VVVVVV
-=======
 bbbbbbbbbbb
 ccccccccccccccccccc
->>>>>>> 73f2b44bd7bb7d37a484be893a0ba2c25276b4cb
